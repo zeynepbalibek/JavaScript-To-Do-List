@@ -1,2 +1,2 @@
 # JavaScript-To-Do-List
-JavaScript To Do List - Patika
+Patika.dev
